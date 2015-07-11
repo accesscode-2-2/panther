@@ -1,6 +1,6 @@
 # Week 0 Pod meeting
 
-http://i.giphy.com/COlgWKLUyBp3G.gif
+(http://i.giphy.com/COlgWKLUyBp3G.gif)
 
 * Date: July 11th, 2015
 * Attendants: Varindra, Christian, Elber, Xiulan, Shena
