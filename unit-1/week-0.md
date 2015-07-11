@@ -10,13 +10,11 @@
 ### TODOs
 
 General: 
-* Find cool gif for our group
+* Find cool gif for our group DONE
 * Pass assessment with flying colors
-* Create slack channel "Panther Pod-E"
-
-### Extra comments / Anything you want your program managers to know
+* Create slack channel "pantherparty" DONE
 
 ### Next Week
 
-* Next Week’s think piece: 
-* Next Week’s team leader: 
+* Next Week’s think piece: ? 
+* Next Week’s team leader: ?
